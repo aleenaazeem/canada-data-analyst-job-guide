@@ -3,6 +3,10 @@
 Welcome to the ultimate open-source resource hub for students, international graduates, and aspiring data analysts looking to launch their careers in **Canada**.
 
 This repository is designed to make job hunting smarter — combining tools, templates, dashboards, data, and strategy all in one place.
+### 📄 Useful Resources
+
+- [Google Doc: Networking Message Templates](https://docs.google.com/document/d/1JkK5G-wDh3geztAlDaGOaC07x0feARvSL1CBv7y9liw/edit?usp=sharing)
+- [Google Sheet: Job Tracker Template](https://docs.google.com/spreadsheets/d/1OKFzYiSkRMWoPmFXxBxGjVz5axYTwi-J0BYTLBZb6SY/edit?usp=sharing)
 
 ---
 
