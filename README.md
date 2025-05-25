@@ -8,7 +8,7 @@ This repository is designed to make job hunting smarter — combining tools, tem
 - [Google Doc: Networking Message Templates](https://docs.google.com/document/d/1JkK5G-wDh3geztAlDaGOaC07x0feARvSL1CBv7y9liw/edit?usp=sharing)
 - [Google Sheet: Job Tracker Template](https://docs.google.com/spreadsheets/d/1OKFzYiSkRMWoPmFXxBxGjVz5axYTwi-J0BYTLBZb6SY/edit?usp=sharing)
 
----
+--
 
 ## 🔍 Who Is This For?
 
